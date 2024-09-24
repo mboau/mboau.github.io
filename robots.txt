@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mboau.github.io/xhG/sitemap.xhG.gz
